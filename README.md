@@ -58,3 +58,27 @@ model = RWKV(model=MODEL_FILE, strategy=’cuda fp16’)          change to     
 ## Generate Music (Shorter Song): ~2:20
 ## Generate Music (Faster Music Model and Shorter Song): ~1:15
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I am not responsible for any pain or suffering caused by playing this
