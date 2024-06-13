@@ -1,0 +1,23 @@
+## ComfyUI-Manager: installing dependencies done.
+[2024-06-11 16:00] ** ComfyUI startup time: 2024-06-11 16:00:31.404756
+[2024-06-11 16:00] ** Platform: Windows
+[2024-06-11 16:00] ** Python version: 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+[2024-06-11 16:00] ** Python executable: C:\Users\MegaS\AppData\Local\Programs\Python\Python310\python.exe
+[2024-06-11 16:00] ** Log path: C:\Users\MegaS\OneDrive\Desktop\GodotGameexport\comfyui.log
+[2024-06-11 16:00] 
+Prestartup times for custom nodes:
+[2024-06-11 16:00]    0.4 seconds: C:\Users\MegaS\OneDrive\Desktop\GodotGameexport\custom_nodes\ComfyUI-Manager
+[2024-06-11 16:00] 
+Total VRAM 4096 MB, total RAM 16218 MB
+[2024-06-11 16:00] Trying to enable lowvram mode because your GPU seems to have 4GB or less. If you don't want this use: --normalvram
+[2024-06-11 16:00] Set vram state to: LOW_VRAM
+[2024-06-11 16:00] Device: cuda:0 NVIDIA GeForce RTX 3050 Ti Laptop GPU : native
+[2024-06-11 16:00] VAE dtype: torch.bfloat16
+[2024-06-11 16:00] Using pytorch cross attention
+[2024-06-11 16:00] Could not find the extra_model_paths config file.
+[2024-06-11 16:00] Traceback (most recent call last):
+[2024-06-11 16:00]   File "C:\Users\MegaS\OneDrive\Desktop\GodotGameexport\GodotImageGenerationcodeee.py", line 99, in <module>
+[2024-06-11 16:00]     from layered_diffusion import *
+[2024-06-11 16:00]   File "C:\Users\MegaS\OneDrive\Desktop\GodotGameexport\layered_diffusion.py", line 17, in <module>
+[2024-06-11 16:00]     from comfy_extras.nodes_compositing import JoinImageWithAlpha
+[2024-06-11 16:00] ModuleNotFoundError: No module named 'comfy_extras.nodes_compositing'
